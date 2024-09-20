@@ -1,2 +1,2 @@
 # bypass-func
-no se
+algunas boludeces, limpiar strings, stopear servicios, borrar regedit, cleanear carpetas, prefetch, etc...
